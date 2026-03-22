@@ -1,0 +1,6 @@
+{
+  "example_feature": {
+    "enabled": true,
+    "rollout_percentage": 100
+  }
+}
