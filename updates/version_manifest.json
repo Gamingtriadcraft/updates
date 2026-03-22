@@ -1,0 +1,41 @@
+{
+  "latest_version": "1.0.1",
+  "min_supported_version": "1.0.0",
+  "versions": {
+    "1.0.0": {
+      "released": "2026-03-22",
+      "changes": [
+        "Initial release"
+      ],
+      "files": {
+        "tool.py": {
+          "sha256": "780f1dcc4f960fa9ce71c50e1da2ebe82667afa054d05868324deb5d06985169",
+          "url": "https://raw.githubusercontent.com/Gamingtriadcraft/updates/v1.0.0/tool.py"
+        },
+        "requirements.txt": {
+          "sha256": "58968199205124fbebd245bfa0025fc09de203541e680d20429ca586c5211561",
+          "url": "https://raw.githubusercontent.com/Gamingtriadcraft/updates/v1.0.0/requirements.txt"
+        }
+      },
+      "required_update": false
+    },
+    "1.0.1": {
+      "released": "2026-03-22",
+      "changes": [
+        "js testing the new auto updater"
+      ],
+      "files": {
+        "tool.py": {
+          "sha256": "bc13d1b0978074f7fb773bb75f15661be69036a2f96ba065e571958d75fdd758",
+          "url": "https://raw.githubusercontent.com/Gamingtriadcraft/updates/v1.0.1/tool.py"
+        },
+        "requirements.txt": {
+          "sha256": "58968199205124fbebd245bfa0025fc09de203541e680d20429ca586c5211561",
+          "url": "https://raw.githubusercontent.com/Gamingtriadcraft/updates/v1.0.1/requirements.txt"
+        }
+      },
+      "required_update": false
+    }
+  },
+  "deprecated_versions": []
+}
